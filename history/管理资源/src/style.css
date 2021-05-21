@@ -1,0 +1,7 @@
+.hello {
+  color: #444;
+  background: center / contain url('./fun7.png') no-repeat;
+  display: inline-flex;
+  align-items: center;
+  /* font-family: 'iconfont'; */
+}
